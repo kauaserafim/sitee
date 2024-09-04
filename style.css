@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: black;
+}
+
+div{
+    background-color: black;
+}
+
+img{
+    width: 150%;
+    height: 150%;
+}
+
+
+#meio div{
+    background-color: white;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    margin: 150px;
+    
+
+    
+
+}
+
+.topo{
+    height: 200px;
+    background-color: wheat;
+    text-align: center;
+    font-size: 100px;
+    font-style: unset;
+    
+    
+}
+
+#meio{
+    height: 500px;
+    padding: 20px;
+    
+    
+}
+
+#rodape{
+    height: 200px;
+    background-color: wheat;
+}
+
+li{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    
+}
+
+li a{
+    color: white;   
+}
+
+
+h1{
+    font-size: 40px;
+}
+
